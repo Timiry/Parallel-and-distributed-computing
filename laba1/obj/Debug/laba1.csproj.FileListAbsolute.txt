@@ -1,0 +1,9 @@
+C:\Users\Timiry\Desktop\Учеба\4 курс\Разработка и программирование человеко-машинного интерфейса\laba1\bin\Debug\laba1.exe
+C:\Users\Timiry\Desktop\Учеба\4 курс\Разработка и программирование человеко-машинного интерфейса\laba1\bin\Debug\laba1.pdb
+C:\Users\Timiry\Desktop\Учеба\4 курс\Разработка и программирование человеко-машинного интерфейса\laba1\obj\Debug\laba1.csproj.AssemblyReference.cache
+C:\Users\Timiry\Desktop\Учеба\4 курс\Разработка и программирование человеко-машинного интерфейса\laba1\obj\Debug\laba1.Form1.resources
+C:\Users\Timiry\Desktop\Учеба\4 курс\Разработка и программирование человеко-машинного интерфейса\laba1\obj\Debug\laba1.Properties.Resources.resources
+C:\Users\Timiry\Desktop\Учеба\4 курс\Разработка и программирование человеко-машинного интерфейса\laba1\obj\Debug\laba1.csproj.GenerateResource.cache
+C:\Users\Timiry\Desktop\Учеба\4 курс\Разработка и программирование человеко-машинного интерфейса\laba1\obj\Debug\laba1.csproj.CoreCompileInputs.cache
+C:\Users\Timiry\Desktop\Учеба\4 курс\Разработка и программирование человеко-машинного интерфейса\laba1\obj\Debug\laba1.exe
+C:\Users\Timiry\Desktop\Учеба\4 курс\Разработка и программирование человеко-машинного интерфейса\laba1\obj\Debug\laba1.pdb

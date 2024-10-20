@@ -1,0 +1,14 @@
+C:\Users\Timiry\Desktop\Учеба\4 курс\Параллельные и распределенные вычисления\laba3\bin\Debug\laba3.exe.config
+C:\Users\Timiry\Desktop\Учеба\4 курс\Параллельные и распределенные вычисления\laba3\bin\Debug\laba3.exe
+C:\Users\Timiry\Desktop\Учеба\4 курс\Параллельные и распределенные вычисления\laba3\bin\Debug\laba3.pdb
+C:\Users\Timiry\Desktop\Учеба\4 курс\Параллельные и распределенные вычисления\laba3\obj\Debug\laba3.csproj.AssemblyReference.cache
+C:\Users\Timiry\Desktop\Учеба\4 курс\Параллельные и распределенные вычисления\laba3\obj\Debug\laba3.csproj.CoreCompileInputs.cache
+C:\Users\Timiry\Desktop\Учеба\4 курс\Параллельные и распределенные вычисления\laba3\obj\Debug\laba3.exe
+C:\Users\Timiry\Desktop\Учеба\4 курс\Параллельные и распределенные вычисления\laba3\obj\Debug\laba3.pdb
+C:\Users\Timiry\Desktop\Учеба\4 курс\Параллельные и распределенные вычисления\Parallel-and-distributed-computing\laba3\bin\Debug\laba3.exe.config
+C:\Users\Timiry\Desktop\Учеба\4 курс\Параллельные и распределенные вычисления\Parallel-and-distributed-computing\laba3\bin\Debug\laba3.exe
+C:\Users\Timiry\Desktop\Учеба\4 курс\Параллельные и распределенные вычисления\Parallel-and-distributed-computing\laba3\bin\Debug\laba3.pdb
+C:\Users\Timiry\Desktop\Учеба\4 курс\Параллельные и распределенные вычисления\Parallel-and-distributed-computing\laba3\obj\Debug\laba3.csproj.AssemblyReference.cache
+C:\Users\Timiry\Desktop\Учеба\4 курс\Параллельные и распределенные вычисления\Parallel-and-distributed-computing\laba3\obj\Debug\laba3.csproj.CoreCompileInputs.cache
+C:\Users\Timiry\Desktop\Учеба\4 курс\Параллельные и распределенные вычисления\Parallel-and-distributed-computing\laba3\obj\Debug\laba3.exe
+C:\Users\Timiry\Desktop\Учеба\4 курс\Параллельные и распределенные вычисления\Parallel-and-distributed-computing\laba3\obj\Debug\laba3.pdb

@@ -1,0 +1,7 @@
+C:\Users\Timiry\Desktop\Учеба\4 курс\Параллельные и распределенные вычисления\laba2\bin\Debug\laba2.exe.config
+C:\Users\Timiry\Desktop\Учеба\4 курс\Параллельные и распределенные вычисления\laba2\bin\Debug\laba2.exe
+C:\Users\Timiry\Desktop\Учеба\4 курс\Параллельные и распределенные вычисления\laba2\bin\Debug\laba2.pdb
+C:\Users\Timiry\Desktop\Учеба\4 курс\Параллельные и распределенные вычисления\laba2\obj\Debug\laba2.csproj.AssemblyReference.cache
+C:\Users\Timiry\Desktop\Учеба\4 курс\Параллельные и распределенные вычисления\laba2\obj\Debug\laba2.csproj.CoreCompileInputs.cache
+C:\Users\Timiry\Desktop\Учеба\4 курс\Параллельные и распределенные вычисления\laba2\obj\Debug\laba2.exe
+C:\Users\Timiry\Desktop\Учеба\4 курс\Параллельные и распределенные вычисления\laba2\obj\Debug\laba2.pdb
