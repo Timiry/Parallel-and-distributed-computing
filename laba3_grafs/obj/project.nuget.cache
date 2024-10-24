@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2Yow7uuIZkQ=",
+  "dgSpecHash": "XTG/lmjpfPE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Timiry\\Desktop\\Учеба\\4 курс\\Параллельные и распределенные вычисления\\laba3_grafs\\laba3_grafs.csproj",
+  "projectFilePath": "C:\\Users\\Timiry\\Desktop\\Учеба\\4 курс\\Параллельные и распределенные вычисления\\Parallel-and-distributed-computing\\laba3_grafs\\laba3_grafs.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Timiry\\.nuget\\packages\\oxyplot.core\\2.2.0\\oxyplot.core.2.2.0.nupkg.sha512",
     "C:\\Users\\Timiry\\.nuget\\packages\\oxyplot.windowsforms\\2.2.0\\oxyplot.windowsforms.2.2.0.nupkg.sha512",

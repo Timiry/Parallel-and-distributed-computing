@@ -129,7 +129,7 @@ namespace laba3_grafs
             plotModel.Axes.Add(new OxyPlot.Axes.LinearAxis
             {
                 Position = OxyPlot.Axes.AxisPosition.Left,
-                Title = "Время" // Переименование оси Y
+                Title = "Время 1 поток / время много потоков" // Переименование оси Y
             });
 
             // Первая кривая
