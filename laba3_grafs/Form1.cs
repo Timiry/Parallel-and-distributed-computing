@@ -17,6 +17,10 @@ namespace laba3_grafs
         List<double> y1 = new List<double>();
         List<double> y2 = new List<double>();
 
+        List<double> z1 = new List<double>();
+        List<double> z2 = new List<double>();
+        List<double> z3 = new List<double>();
+
         void prepareData()
         {
             x.Clear();
@@ -26,8 +30,14 @@ namespace laba3_grafs
             for (long i = 10000; i <= 1000000000; i *= 10)
             {
                 x.Add(i);
-                y1.Add(singleStreamTime(i) / parallelTime(i));
-                y2.Add(singleStreamTime(i) / multiStreamsTime(i, process));
+
+                z1.Add((double)singleStreamTime(i));
+                z2.Add((double)parallelTime(i));
+                z3.Add((double)multiStreamsTime(i, process));
+
+                int j = x.Count-1;
+                y1.Add(z1[j] / z2[j]);
+                y2.Add(z1[j] / z3[j]);
             }
         }
 

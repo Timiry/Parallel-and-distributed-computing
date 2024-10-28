@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("laba3_grafs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9c55b72ee158dcba845f36ca35058f74fd26624")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+66b62a60d84d67ed80b713a1e39f292fdfbef906")]
 [assembly: System.Reflection.AssemblyProductAttribute("laba3_grafs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("laba3_grafs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
