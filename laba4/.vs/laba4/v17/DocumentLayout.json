@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Timiry\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u041F\u0430\u0440\u0430\u043B\u043B\u0435\u043B\u044C\u043D\u044B\u0435 \u0438 \u0440\u0430\u0441\u043F\u0440\u0435\u0434\u0435\u043B\u0435\u043D\u043D\u044B\u0435 \u0432\u044B\u0447\u0438\u0441\u043B\u0435\u043D\u0438\u044F\\laba4\\",
+  "WorkspaceRootPath": "C:\\Users\\Timiry\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u041F\u0430\u0440\u0430\u043B\u043B\u0435\u043B\u044C\u043D\u044B\u0435 \u0438 \u0440\u0430\u0441\u043F\u0440\u0435\u0434\u0435\u043B\u0435\u043D\u043D\u044B\u0435 \u0432\u044B\u0447\u0438\u0441\u043B\u0435\u043D\u0438\u044F\\Parallel-and-distributed-computing\\laba4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{470BC5B8-BED2-40AD-85F0-7E5F9F733926}|laba4.csproj|c:\\users\\timiry\\desktop\\\u0443\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u043F\u0430\u0440\u0430\u043B\u043B\u0435\u043B\u044C\u043D\u044B\u0435 \u0438 \u0440\u0430\u0441\u043F\u0440\u0435\u0434\u0435\u043B\u0435\u043D\u043D\u044B\u0435 \u0432\u044B\u0447\u0438\u0441\u043B\u0435\u043D\u0438\u044F\\laba4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{470BC5B8-BED2-40AD-85F0-7E5F9F733926}|laba4.csproj|c:\\users\\timiry\\desktop\\\u0443\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u043F\u0430\u0440\u0430\u043B\u043B\u0435\u043B\u044C\u043D\u044B\u0435 \u0438 \u0440\u0430\u0441\u043F\u0440\u0435\u0434\u0435\u043B\u0435\u043D\u043D\u044B\u0435 \u0432\u044B\u0447\u0438\u0441\u043B\u0435\u043D\u0438\u044F\\parallel-and-distributed-computing\\laba4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{470BC5B8-BED2-40AD-85F0-7E5F9F733926}|laba4.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{470BC5B8-BED2-40AD-85F0-7E5F9F733926}|laba4.csproj|C:\\Users\\Timiry\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u041F\u0430\u0440\u0430\u043B\u043B\u0435\u043B\u044C\u043D\u044B\u0435 \u0438 \u0440\u0430\u0441\u043F\u0440\u0435\u0434\u0435\u043B\u0435\u043D\u043D\u044B\u0435 \u0432\u044B\u0447\u0438\u0441\u043B\u0435\u043D\u0438\u044F\\laba4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{470BC5B8-BED2-40AD-85F0-7E5F9F733926}|laba4.csproj|C:\\Users\\Timiry\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u041F\u0430\u0440\u0430\u043B\u043B\u0435\u043B\u044C\u043D\u044B\u0435 \u0438 \u0440\u0430\u0441\u043F\u0440\u0435\u0434\u0435\u043B\u0435\u043D\u043D\u044B\u0435 \u0432\u044B\u0447\u0438\u0441\u043B\u0435\u043D\u0438\u044F\\Parallel-and-distributed-computing\\laba4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{470BC5B8-BED2-40AD-85F0-7E5F9F733926}|laba4.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Timiry\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u041F\u0430\u0440\u0430\u043B\u043B\u0435\u043B\u044C\u043D\u044B\u0435 \u0438 \u0440\u0430\u0441\u043F\u0440\u0435\u0434\u0435\u043B\u0435\u043D\u043D\u044B\u0435 \u0432\u044B\u0447\u0438\u0441\u043B\u0435\u043D\u0438\u044F\\laba4\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Timiry\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u041F\u0430\u0440\u0430\u043B\u043B\u0435\u043B\u044C\u043D\u044B\u0435 \u0438 \u0440\u0430\u0441\u043F\u0440\u0435\u0434\u0435\u043B\u0435\u043D\u043D\u044B\u0435 \u0432\u044B\u0447\u0438\u0441\u043B\u0435\u043D\u0438\u044F\\Parallel-and-distributed-computing\\laba4\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Timiry\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u041F\u0430\u0440\u0430\u043B\u043B\u0435\u043B\u044C\u043D\u044B\u0435 \u0438 \u0440\u0430\u0441\u043F\u0440\u0435\u0434\u0435\u043B\u0435\u043D\u043D\u044B\u0435 \u0432\u044B\u0447\u0438\u0441\u043B\u0435\u043D\u0438\u044F\\laba4\\Form1.cs",
+              "ToolTip": "C:\\Users\\Timiry\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u041F\u0430\u0440\u0430\u043B\u043B\u0435\u043B\u044C\u043D\u044B\u0435 \u0438 \u0440\u0430\u0441\u043F\u0440\u0435\u0434\u0435\u043B\u0435\u043D\u043D\u044B\u0435 \u0432\u044B\u0447\u0438\u0441\u043B\u0435\u043D\u0438\u044F\\Parallel-and-distributed-computing\\laba4\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAewC0AAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T09:09:07.81Z",
               "EditorCaption": ""
@@ -41,10 +41,10 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "DocumentMoniker": "C:\\Users\\Timiry\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u041F\u0430\u0440\u0430\u043B\u043B\u0435\u043B\u044C\u043D\u044B\u0435 \u0438 \u0440\u0430\u0441\u043F\u0440\u0435\u0434\u0435\u043B\u0435\u043D\u043D\u044B\u0435 \u0432\u044B\u0447\u0438\u0441\u043B\u0435\u043D\u0438\u044F\\laba4\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Timiry\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u041F\u0430\u0440\u0430\u043B\u043B\u0435\u043B\u044C\u043D\u044B\u0435 \u0438 \u0440\u0430\u0441\u043F\u0440\u0435\u0434\u0435\u043B\u0435\u043D\u043D\u044B\u0435 \u0432\u044B\u0447\u0438\u0441\u043B\u0435\u043D\u0438\u044F\\Parallel-and-distributed-computing\\laba4\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\Timiry\\Desktop\\\u0423\u0447\u0435\u0431\u0430\\4 \u043A\u0443\u0440\u0441\\\u041F\u0430\u0440\u0430\u043B\u043B\u0435\u043B\u044C\u043D\u044B\u0435 \u0438 \u0440\u0430\u0441\u043F\u0440\u0435\u0434\u0435\u043B\u0435\u043D\u043D\u044B\u0435 \u0432\u044B\u0447\u0438\u0441\u043B\u0435\u043D\u0438\u044F\\laba4\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
-              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\laba4\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-28T08:45:22.62Z"
             }
