@@ -1,0 +1,6 @@
+C:\Users\Timiry\Desktop\Учеба\4 курс\Параллельные и распределенные вычисления\Parallel-and-distributed-computing\laba6\RemoteHello\bin\Debug\RemoteHello.dll
+C:\Users\Timiry\Desktop\Учеба\4 курс\Параллельные и распределенные вычисления\Parallel-and-distributed-computing\laba6\RemoteHello\bin\Debug\RemoteHello.pdb
+C:\Users\Timiry\Desktop\Учеба\4 курс\Параллельные и распределенные вычисления\Parallel-and-distributed-computing\laba6\RemoteHello\obj\Debug\RemoteHello.csproj.AssemblyReference.cache
+C:\Users\Timiry\Desktop\Учеба\4 курс\Параллельные и распределенные вычисления\Parallel-and-distributed-computing\laba6\RemoteHello\obj\Debug\RemoteHello.csproj.CoreCompileInputs.cache
+C:\Users\Timiry\Desktop\Учеба\4 курс\Параллельные и распределенные вычисления\Parallel-and-distributed-computing\laba6\RemoteHello\obj\Debug\RemoteHello.dll
+C:\Users\Timiry\Desktop\Учеба\4 курс\Параллельные и распределенные вычисления\Parallel-and-distributed-computing\laba6\RemoteHello\obj\Debug\RemoteHello.pdb

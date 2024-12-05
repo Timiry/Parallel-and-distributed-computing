@@ -1,0 +1,9 @@
+C:\Users\Timiry\Desktop\Учеба\4 курс\Параллельные и распределенные вычисления\Parallel-and-distributed-computing\laba6\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\Timiry\Desktop\Учеба\4 курс\Параллельные и распределенные вычисления\Parallel-and-distributed-computing\laba6\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\Timiry\Desktop\Учеба\4 курс\Параллельные и распределенные вычисления\Parallel-and-distributed-computing\laba6\Server\bin\Debug\Server.exe
+C:\Users\Timiry\Desktop\Учеба\4 курс\Параллельные и распределенные вычисления\Parallel-and-distributed-computing\laba6\Server\bin\Debug\Server.pdb
+C:\Users\Timiry\Desktop\Учеба\4 курс\Параллельные и распределенные вычисления\Parallel-and-distributed-computing\laba6\Server\bin\Debug\RemoteHello.dll
+C:\Users\Timiry\Desktop\Учеба\4 курс\Параллельные и распределенные вычисления\Parallel-and-distributed-computing\laba6\Server\bin\Debug\RemoteHello.pdb
+C:\Users\Timiry\Desktop\Учеба\4 курс\Параллельные и распределенные вычисления\Parallel-and-distributed-computing\laba6\Server\obj\Debug\Server.csproj.Up2Date
+C:\Users\Timiry\Desktop\Учеба\4 курс\Параллельные и распределенные вычисления\Parallel-and-distributed-computing\laba6\Server\obj\Debug\Server.exe
+C:\Users\Timiry\Desktop\Учеба\4 курс\Параллельные и распределенные вычисления\Parallel-and-distributed-computing\laba6\Server\obj\Debug\Server.pdb
